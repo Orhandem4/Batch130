@@ -1,4 +1,4 @@
-package advanced_practice.practice01;
+package main.java.advanced_practice.practice01;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

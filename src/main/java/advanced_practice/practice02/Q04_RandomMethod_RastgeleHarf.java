@@ -1,4 +1,4 @@
-package advanced_practice.practice02;
+package main.java.advanced_practice.practice02;
 
 public class Q04_RandomMethod_RastgeleHarf {
 

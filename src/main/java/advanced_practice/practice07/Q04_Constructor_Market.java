@@ -1,4 +1,4 @@
-package advanced_practice.practice07;
+package main.java.advanced_practice.practice07;
 
 public class Q04_Constructor_Market {
 

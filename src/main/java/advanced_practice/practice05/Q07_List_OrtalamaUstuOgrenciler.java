@@ -1,4 +1,4 @@
-package advanced_practice.practice05;
+package main.java.advanced_practice.practice05;
 
 import java.util.ArrayList;
 import java.util.List;

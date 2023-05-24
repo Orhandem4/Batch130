@@ -1,4 +1,4 @@
-package day03scanner.Main.Java;
+package main.java.day03scanner.Main.Java;
 
 import java.util.Scanner;
 

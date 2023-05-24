@@ -1,4 +1,4 @@
-package advanced_practice.practice04;
+package main.java.advanced_practice.practice04;
 
 import java.util.Scanner;
 

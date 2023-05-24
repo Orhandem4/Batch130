@@ -1,4 +1,4 @@
-package advanced_practice.practice05;
+package main.java.advanced_practice.practice05;
 
 public class Q01_Variables_PostVePreIncrement {
 
